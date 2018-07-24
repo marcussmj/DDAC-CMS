@@ -39,7 +39,7 @@ namespace Marcustp039823
                 }
                 else
                 {
-                    Response.Write("<script>alert('Email does not exists in the system')</script>");
+                    Response.Write("<script>alert('email not exists in the system')</script>");
                 }
             }
         }
